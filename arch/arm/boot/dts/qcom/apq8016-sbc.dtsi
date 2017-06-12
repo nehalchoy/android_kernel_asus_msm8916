@@ -762,7 +762,6 @@
 			};
 		};
 		pm8916_pon: qcom,power-on@800 {
-			qcom,pon-reset-off;
 			qcom,pon_1 {
 				qcom,s2-type = <7>;
 			};
